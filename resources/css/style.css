@@ -41,5 +41,9 @@ h3 {
   text-align: left;
   background-color: dimgray;
   color: white;
+}
+
+.copyright p {
   font-size: 11px;
+
 }
